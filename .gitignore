@@ -62,3 +62,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+#SB3 autosave
+/Tools/SB3UGS/SB3UtilityGUI.autosavescript.txt
