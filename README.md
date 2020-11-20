@@ -5,4 +5,4 @@ Empty mod template.
 \- none -
 
 ## Attributions
-Forked from [https://github.com/IllusionMods/KoikatsuModdingTools]
+Forked from [IllusionMods/KoikatsuModdingTools](https://github.com/IllusionMods/KoikatsuModdingTools)
