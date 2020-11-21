@@ -1,7 +1,3 @@
-/[Aa]ssets/Mods/*
-!/[Aa]ssets/Mods/_readme.txt
-!/[Aa]ssets/Mods/_readme.txt.meta
-
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
