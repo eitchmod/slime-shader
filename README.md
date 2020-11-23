@@ -8,8 +8,8 @@ A slime/goo shader for Material Editor.
 #### Important Material properties
 * __Alpha__ - Surface transparency.
 * __Color__ - Slime color.
-* __MatCap__ - World-reflection map.
-* __MatCapAlpha__ - Strength of the world reflection map.
+* __MatCap__ - World reflection map.
+* __MatCapAlpha__ - Strength of the world reflection.
 * __Refraction__ - Refractive index of the surface. Light will 'bend' more upon entering and leaving the object 
 at tangential angles. 1 is neutral (no refraction) with higher and lower amounts resulting in more refraction in
  either direction.
@@ -24,6 +24,11 @@ See the manifest file for a list of all material properties.
 
 ## Runtime Requirements
 \- none -
+
+## Todo/Improvements
+* Hair-front version of the shader that lets eyebrows show through. Or change the render queue to let those elements
+ draw after.
+* Find out how the clothing clipping masks hide the default body shader.
 
 ## Attributions
 Forked from [IllusionMods/KoikatsuModdingTools](https://github.com/IllusionMods/KoikatsuModdingTools)

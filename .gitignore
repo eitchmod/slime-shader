@@ -68,3 +68,7 @@ crashlytics-build.properties
 #Amplify Shader Editor
 /Assets/AmplifyShaderEditor.meta
 /Assets/AmplifyShaderEditor/
+
+#Blender autosaves
+*.blend?
+*.blend?.meta

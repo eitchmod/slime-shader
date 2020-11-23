@@ -8,11 +8,11 @@
 	<website>https://www.patreon.com/eitchmod</website>
 	<game>Koikatsu</game>
 	<MaterialEditor>
-		<Shader Name="Eitch/Slime" AssetBundle="chara/eitch/slime.unity3d" Asset="asset_Slime">
+		<Shader Name="Eitch/Slime" AssetBundle="chara/eitch/slime_stuff.unity3d" Asset="slime_shader_prefab">
 			<Property Name="NormalMap" Type="Texture"/>
 			<Property Name="Alpha" Type="Float" DefaultValue="0.614" />
 			<Property Name="Color" Type="Color" DefaultValue="0.322,0.753,0.898,1" />
-			<Property Name="Matcap" Type="Texture" DefaultValueAssetBundle="chara/eitch/slime.unity3d" DefaultValue="slime-matcap" />
+			<Property Name="Matcap" Type="Texture" DefaultValueAssetBundle="chara/eitch/slime_stuff.unity3d" DefaultValue="slime_matcap" />
 			<Property Name="MatcapAlpha" Type="Float" DefaultValue="0.5" Range="0,1" />
 			<Property Name="Metallic" Type="Float" DefaultValue="0.3" Range="0,1" />
 			<Property Name="Smoothness" Type="Float" DefaultValue="0.8" Range="0,1" />

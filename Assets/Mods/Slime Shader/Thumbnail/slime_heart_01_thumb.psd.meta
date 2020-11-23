@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: fd99656a9f0e2884e8b7fdc6a3b48dbc
-timeCreated: 1602073632
+guid: f4fcdab832effa34487f518023f93cd4
+timeCreated: 1604295092
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName: {}
@@ -64,5 +64,5 @@ TextureImporter:
     outline: []
   spritePackingTag: 
   userData: 
-  assetBundleName: chara/eitch/slime.unity3d
+  assetBundleName: chara/eitch/thumb/slime_stuff.unity3d
   assetBundleVariant: 
