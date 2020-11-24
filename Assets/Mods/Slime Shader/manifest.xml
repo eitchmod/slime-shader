@@ -27,6 +27,8 @@
 			<Property Name="liquidface" Type="Float" DefaultValue="0" Range="0,2"/>
 			<Property Name="LiquidTiling" Type="Color" DefaultValue="0,0,1,1"/>
 			<Property Name="LiquidColor" Type="Color" DefaultValue="1,1,1,1" />
+			<Property Name="RippleMap" Type="Texture" DefaultValueAssetBundle="chara/eitch/slime_stuff.unity3d" DefaultValue="ripplemap_normal" />
+			<Property Name="RippleStrength" Type="Float" DefaultValue="0" Range="0,1"/>
 		</Shader>
 	</MaterialEditor>
 </manifest>

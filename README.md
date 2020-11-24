@@ -16,6 +16,8 @@ at tangential angles. 1 is neutral (no refraction) with higher and lower amounts
 * __ChromaticAberration__ - Higher chromatic aberration will result in a greater difference in refration based on the
 wavelength of the light passing through the object. (Prismatic effect).
 * __LiquidColor__ - Tint the color of the surface 'liquid'.
+* __RippleMap__ - An additional normal map that will peturb the surface normals. Default texture is a ripple-looking texture.
+* __RippleStrength__ - Strenght of the ripple map. Defaults to 0 as the effect can be very hit/miss.
 
 See the manifest file for a list of all material properties.
 
